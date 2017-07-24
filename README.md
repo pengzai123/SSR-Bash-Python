@@ -38,11 +38,6 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
 ## 自检 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/self-check.sh && bash self-check.sh
 
-## 截图 ##
-![https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/1.png](1.png)
-
-![https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/2.png](2.png)
-
 ## 参考资料 ##
 [ShadowsocksR](https://github.com/FunctionClub/shadowsocksr)
 
